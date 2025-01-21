@@ -1,6 +1,6 @@
 # GPT-Elevenlabs-Character
 
-A text- and voice-interactable character that embodies a fictional character's personality and voice, created using ChatGPT Assistants feature and ElevenLabs fine-tuned TTS
+A **text- and voice-interactable character** that embodies a fictional character's personality and voice, created using **ChatGPT assistants feature** and **ElevenLabs fine-tuned TTS**
 
 ![example1](./image_assets/GPTChar_vtube.png)
 figure1: A conversation example with VTube studio and VB-Cable (live2d model source: https://kyoki.booth.pm/items/5323958)
