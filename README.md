@@ -6,7 +6,7 @@ A text- and voice-interactable character that embodies a fictional character's p
 figure1: Conversation example with VTube studio and VB-Cable
 
 ![example2](./image_assets/GPTChar_messenger.png)
-figure2: messenger app example by KivyMD
+figure2: Messenger app example by KivyMD
 
 
 ## References:
